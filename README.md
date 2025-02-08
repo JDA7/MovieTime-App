@@ -1,4 +1,5 @@
 # 🎬 MovieTime - A Movie Finder and Trending App
+Try it Live! https://movie-time-app-tan.vercel.app/
 
 ## 📌 Overview  
 **MovieTime** is a sleek and user-friendly web application that allows you to search and discover movies effortlessly. Whether you're looking for trending films, browsing a comprehensive movie database, or searching for a specific title, this app has you covered!  
